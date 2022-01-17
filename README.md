@@ -18,6 +18,8 @@
   <li>rrr - rra e rrb ao mesmo tempo</li>  
 </ul>
 
+<a href="https://github.com/o-reo/push_swap_visualizer">Vizualizer utilizado</a>
+
 
 <img src="push_1.gif">
 <img src="push_2.gif">
